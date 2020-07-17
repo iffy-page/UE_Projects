@@ -113,7 +113,7 @@ img {
 }
 
 header {
-  width:468px;
+  width:513px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -126,11 +126,11 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:468px;
+  width:513px;
 }
 
 header li {
-  width:155px;
+  width:170px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:55px;
@@ -174,7 +174,7 @@ strong {
 
 header ul li + li + li {
   border-right:none;
-  width:155px;
+  width:170px;
 }
 
 header ul a strong {
@@ -184,7 +184,7 @@ header ul a strong {
 }
 
 section {
-  width:468px;
+  width:513px;
   float:right;
   padding-bottom:50px;
 }
