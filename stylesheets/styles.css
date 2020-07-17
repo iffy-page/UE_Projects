@@ -136,7 +136,7 @@ header li {
   height:55px;
 }
 
-header li img {
+header li a img {
   left: 50%;
   margin-right: -50%;
 }
