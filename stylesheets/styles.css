@@ -134,7 +134,7 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
+  height:55px;
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
@@ -164,7 +164,7 @@ header ul a {
   display:block;
   text-align:center;
   padding-top:6px;
-  height:34px;
+  height:40px;
 }
 
 header ul a:hover {
@@ -198,7 +198,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
 }
 
 hr {
