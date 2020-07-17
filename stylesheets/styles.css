@@ -7,7 +7,7 @@
        url('/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
        url('/fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
        url('/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype'),
-       url('/fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans') format('svg');
+       url('/fonts/Noto-Sans-regular/Noto-Sans-regular.svg') format('svg');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
        url('/fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2'),
        url('/fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff'),
        url('/fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype'),
-       url('/fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
+       url('/fonts/Noto-Sans-700/Noto-Sans-700.svg') format('svg');
 }
 
 body {
