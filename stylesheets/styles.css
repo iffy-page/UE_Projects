@@ -137,8 +137,8 @@ header li {
 }
 
 header li a img {
-  left: 50%;
-  margin-right: -50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header li:first-child a {
