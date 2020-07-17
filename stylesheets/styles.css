@@ -266,7 +266,7 @@ footer {
   }
 
   header li, header ul li + li + li {
-    width:33%;
+    width:25%,50%,25%;
   }
 }
 
