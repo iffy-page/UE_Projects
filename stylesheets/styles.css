@@ -136,6 +136,10 @@ header li {
   height:55px;
 }
 
+header li img {
+  margin-right: -50%
+}
+
 header li:first-child a {
   border-radius:5px 0 0 5px;
 }
