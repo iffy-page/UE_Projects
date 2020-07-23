@@ -217,6 +217,10 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
