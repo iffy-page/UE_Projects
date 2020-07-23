@@ -221,6 +221,10 @@
 		{
 			"Name": "Spatialization",
 			"Enabled": true
+		},
+		{
+			"Name": "ShallowWater",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
