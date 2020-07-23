@@ -79,6 +79,14 @@
 		{
 			"Name": "CodeView",
 			"Enabled": true
+		},
+		{
+			"Name": "Composure",
+			"Enabled": true
+		},
+		{
+			"Name": "CompositePlane",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
