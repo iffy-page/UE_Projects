@@ -87,6 +87,14 @@
 		{
 			"Name": "CompositePlane",
 			"Enabled": true
+		},
+		{
+			"Name": "DataCharts",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
