@@ -35,6 +35,18 @@
 		{
 			"Name": "HTNPlanner",
 			"Enabled": true
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "Adjust",
+			"Enabled": true
+		},
+		{
+			"Name": "AnalyticsMulticast",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
