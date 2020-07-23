@@ -67,6 +67,10 @@
 		{
 			"Name": "BlueprintMaterialTextureNodes",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
