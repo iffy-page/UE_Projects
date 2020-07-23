@@ -31,6 +31,10 @@
 		{
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
+		},
+		{
+			"Name": "HTNPlanner",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
