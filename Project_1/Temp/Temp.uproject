@@ -271,6 +271,14 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
+		},
+		{
+			"Name": "WmfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "WebAuth",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
