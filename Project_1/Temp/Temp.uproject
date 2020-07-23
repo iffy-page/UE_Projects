@@ -111,6 +111,18 @@
 		{
 			"Name": "Gauntlet",
 			"Enabled": true
+		},
+		{
+			"Name": "Firebase",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "FileLogging",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
