@@ -17,7 +17,7 @@
     
     https://vimeo.com/505450139  (Part 2)  
     
-    (Part 3/4 >> converting, check back tonight Jan 27)
+    (Part 3/4 >> converting, check back tonight Jan 27 **It converted and uploaded, I just have to wait for the week on Vimeo to turn over.**)
     
     (In the end, I forgot you have to add it component to access it, it's fine, I thought I broke something, but let's just ignore that.)
     
