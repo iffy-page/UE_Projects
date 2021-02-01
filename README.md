@@ -17,9 +17,8 @@
     
     https://vimeo.com/505450139  (Part 2)  
     
-    (Part 3/4 >> converting, check back tonight Jan 27 **It converted and uploaded, I just have to wait for the week on Vimeo to turn over.**)
+    https://vimeo.com/507163831 (Part 3 ((long)))
     
     (In the end, I forgot you have to add it component to access it, it's fine, I thought I broke something, but let's just ignore that.)
     
-      
-    (Annnd, a quick clip just to show, it isn't just a bunch of nodes, it does run.)
+    https://vimeo.com/507172192 (Annnd, a quick clip just to show, it isn't just a bunch of nodes, it does run, I didn't break it.)
