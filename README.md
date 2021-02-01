@@ -21,6 +21,6 @@
     
     (Part 4 is coming, Vimeo has inexplicably reset my cap once over, so I should be able to upload the end here soon. Only issue now is I don't know how long I have to let VLC stream past -0:00)
     
-    In the end, I forgot you have to add it component to access it, it's fine, I thought I broke something, but let's just ignore that.
+    In the end, I forgot you have to add a component to access it, it's fine, I thought I broke something, but let's just ignore that.
     
     https://vimeo.com/507172192 (Annnd, a quick clip just to show, it isn't just a bunch of nodes, it does run, I didn't break it.)
