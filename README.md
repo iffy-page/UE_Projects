@@ -17,7 +17,7 @@
     
     https://vimeo.com/505450139  (Part 2)  
     
-    https://vimeo.com/507163831 (Part 3 ((long)))
+    https://vimeo.com/507163831 (Part 3 ((long))) [Sorry, there seems to be a keyframe isssue around 2m I need to work out. Again, pleasse check out the file.]
     
     (In the end, I forgot you have to add it component to access it, it's fine, I thought I broke something, but let's just ignore that.)
     
