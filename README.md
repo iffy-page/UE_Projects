@@ -17,9 +17,11 @@
     
     https://vimeo.com/505450139  (Part 2)  
     
-    https://vimeo.com/507163831 (Part 3/4)
+    https://vimeo.com/507163831 (Part 3)
     
-    (Part 4 is coming, Vimeo has inexplicably reset my cap once over, so I should be able to upload the end here soon. Only issue now is I don't know how long I have to let VLC stream past -0:00)
+    https://vimeo.com/507191384 (Part 4)
+    
+    (Part 5 is coming, Vimeo has inexplicably reset my cap once over, so I should be able to upload the end here soon. Only issue now is I don't know how long I have to let VLC stream past -0:00+54:04)
     
     In the end, I forgot you have to add a component to access it, it's fine, I thought I broke something, but let's just ignore that.
     
